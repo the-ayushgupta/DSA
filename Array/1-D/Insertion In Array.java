@@ -34,7 +34,7 @@ class SingleDimensionArray
         }
     }
 }
-class Main
+class Insertion In Array
 {
     public static void main(String[] args)
     {
