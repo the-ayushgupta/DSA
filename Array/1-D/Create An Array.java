@@ -1,5 +1,5 @@
 import java.util.Arrays;
-public class Main
+public class Create An Array
 {
 	public static void main(String[] args) {
 		int[] intArray;                                                 //O(1)
